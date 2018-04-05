@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../NovelCrawl/.idea/NovelCrawl.iml" filepath="$PROJECT_DIR$/../NovelCrawl/.idea/NovelCrawl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../alien_invasion/.idea/alien_invasion.iml" filepath="$PROJECT_DIR$/../../alien_invasion/.idea/alien_invasion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../git更新项目/git_practice/git_practice/.idea/git_practice.iml" filepath="$PROJECT_DIR$/../../git更新项目/git_practice/git_practice/.idea/git_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/小说.iml" filepath="$PROJECT_DIR$/.idea/小说.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../数据可视化/.idea/数据可视化.iml" filepath="$PROJECT_DIR$/../../数据可视化/.idea/数据可视化.iml" />
+    </modules>
+  </component>
+</project>
